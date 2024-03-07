@@ -93,7 +93,7 @@ Inference 결과는 ./hand_pose/dataset/Inference/ 디렉토리에 위치하며 
 
 [rs-convert tool](https://github.com/IntelRealSense/librealsense/tree/master/tools/convert) 다음 홈페이지를 참조하여 .bag 파일을 PNG로 변환할 수 있습니다.
 
-####예시 코드
+#### 예시 코드
 
     rs-convert -i bag/fil/path/some.bag -p output/path/some_file_prefix
 
